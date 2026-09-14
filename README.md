@@ -1,4 +1,4 @@
-# Xeno Comm-Log Send Reconciliation
+# Overview
 
 ## Objective
 
@@ -41,14 +41,12 @@ reproduce the Finance metric.
 
 ## Investigation
 
-See [reconciliation/reconciliation_bridge.md](...)
+Whole Report: [Investigation_Report](Investigation_Report.pdf)
 
-## SQL
+Short Read: [reconciliation_bridge](reconciliation/reconciliation_bridge.md)
 
-Runnable investigation and reconciliation queries are available in
-the `sql/` directory.
 
 ## Data
 
-The raw assignment data is not included in this repository.
+The raw assignment data is also included in this repository.
 The SQL is intended to run against the provided SQLite database.
